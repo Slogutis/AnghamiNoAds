@@ -1,0 +1,10 @@
+Package: com.ihack102.anghaminoads
+Name: AnghamiNoAds
+Depends: mobilesubstrate
+Version: 0.0~
+Architecture: iphoneos-arm
+Description: Patch Ads on Anghami App 😁
+Maintainer: iHack102
+Author: iHack102 <d-_-x@hotmail.com>
+HomePage: https://twitter.com/ihack102
+Section: Tweaks
